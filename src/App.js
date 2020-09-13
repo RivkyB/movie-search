@@ -7,6 +7,7 @@ function App() {
     <div className="container">
       <h1 className="title">React Movie Search</h1>
       <Search />
+     <footer> Created with a tutorial on <a href='https://scrimba.com/'>Scrimba</a></footer>
     </div>
   );
 }
